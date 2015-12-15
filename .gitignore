@@ -1,0 +1,10 @@
+*~
+bin/
+build/
+*.swp
+*.user
+Makefile
+src/*~
+src/*.swp
+qml/*~
+qml/*.swp

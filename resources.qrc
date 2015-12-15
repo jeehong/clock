@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/clock.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>pic/body.png</file>
+        <file>pic/center.png</file>
+        <file>pic/hour.png</file>
+        <file>pic/min.png</file>
+    </qresource>
+</RCC>
